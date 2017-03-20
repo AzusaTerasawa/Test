@@ -16,6 +16,7 @@ namespace ConsoleApp1
 
             Console.Out.Write("Visual Stidio 2017\n");
 
+            Console.Out.Write("ソースの変更後にComitする\n");
 
         }
     }
